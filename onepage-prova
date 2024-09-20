@@ -1,0 +1,265 @@
+<div id="contador1"><p>Tempo restante:</p>
+<p><span id="contador"></span></p></div>
+
+
+
+
+<!DOCTYPE html> 
+<link rel="stylesheet" href="print.css" type="text/css" media="print">
+
+<div class="boasorte"><span><p style="padding:10px;">Sua prova começou. Fique atento(a) ao tempo. Boa sorte!</p></span></div>
+
+
+
+<div class="div3"><b>Leia o texto a seguir:</b></div>
+
+<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>De crime a arte: a história do grafite nas ruas de São Paulo</b></div>
+<span style="font-size:80%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lais Modelli</span><br>
+<div class="texto"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No início da década de 1980, desenhos enormes de frangos assados, telefones e botas de salto fino começaram a aparecer em muros de São Paulo. Eram alguns dos primeiros grafites em espaço público da capital paulista, feitos pelo artista etíope radicado no Brasil Alex Vallauri.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naquela época, com a liberdade de expressão caçada pela ditadura militar, o grafite era considerado crime pela legislação brasileira. "A própria ocupação da rua já era vista como um ato político", diz o sociólogo e curador de arte urbana Sérgio Miguel Franco. E nas obras de Alex Vallauri era possível entender o lado político do grafite paulistano: um dos seus primeiros desenhos foi o "Boca com Alfinete" (1973), uma referência à censura.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A discussão sobre o grafite como arte ou como vandalismo, segundo Rui Amaral, reflete o modo como cada gestão pública entende essas intervenções urbanas. A autorização para fazer intervenções na avenida 23 de Maio, por exemplo, era pedida pelos artistas desde a gestão de Jânio Quadros (1986 a 1989), mas foi autorizada somente no fim da gestão de Fernando Haddad (PT), em 2016.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"A avenida 23 de Maio foi o ápice do movimento artístico urbano paulistano", relembra Amaral, que é responsável pelas gravuras do buraco da av. Paulista, desenhados pela primeira vez, de forma ilegal, em 1989 e legalizados em 1991 pela gestão de Luiza Erundina (PT). Até 2011, o grafite em edifícios públicos era considerado crime ambiental e vandalismo em São Paulo. A partir daquele ano, somente a pichação continuou sendo crime.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De um modo geral, a pichação - que costuma trazer frases de protesto ou insulto, assinaturas pessoais ou de gangues - é considerada uma intervenção agressiva e que degrada a paisagem da cidade. O grafite, por sua vez, é considerado arte urbana. Para o sociólogo Alexandre Barbosa Pereira, pesquisador de Antropologia Urbana da Unifesp, a dissociação entre grafite e pichação contribuiu para que o grafite começasse a ser aceito, mas apenas como forma de combate ao picho.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O pesquisador lembra que uma das justificativas da gestão Doria para apagar os painéis da 23 de Maio era a presença de pichação sobre eles. "O grafite, mais associado à arte, é mais facilmente entendido como forma de ação do Estado e mesmo do mercado, já a pichação, execrada pela maioria da população, é uma máquina de guerra, nômade e difícil de ser capturada. Assim, fica mais fácil criminalizar esta e mesmo criar certo pânico moral em torno dela como forma de marketing político e publicidade pessoal."<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outro efeito da decisão de legalizar somente o grafite, segundo Rui Amaral, é a confusão entre os conceitos de grafite, pichação e muralismo. De acordo com o artista, foi o que aconteceu na decisão do atual prefeito de apagar os painéis da avenida 23 de Maio. "O que havia na 23 de Maio eram murais, e não grafite. Os murais são painéis autorizados e encomendados", afirma.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(A artista plástica japonesa naturalizada brasileira) Tomie Ohtake também tem painéis em espaços públicos e duvido que a gestão pública mexeria na obra dela sem consultar os responsáveis."
+<br><span style="font-size:80%;">Disponível em: https://www.bbc.com/portuguese/internacional-38766202/ (adaptado)</span>
+</div><br>
+<div class="divtema">Com base no texto e nos conhecimentos construídos ao longo de sua formação, elabore uma dissertação em norma padrão da língua portuguesa sobre o tema:<br><span id="tema"> "Grafite nas cidades: arte urbana ou crime?"</span></div>
+
+<div class="div1"><p style="color:#000000; padding:10px;"><b>Quantidade de caracteres (mínimo 1000)</b></p><p  style="color:#000000;">&nbsp;&nbsp;<span class="caracteres">0</span> de 1500</p></div>
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+  #contador1{
+    border-radius: 6px;
+    font-weight: bold;
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    text-align:center;
+    padding: 5px;
+     -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    position: fixed;
+}
+}
+#rd-text_area_field-kb7gxssy{
+    height: 600px;
+}
+
+#contador{
+    font-size: 20px;
+    z-index: 3000;
+    margin: 15px;
+}
+#contador1{
+    border-radius: 6px;
+    font-weight: bold;
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    text-align:center;
+    padding: 5px;
+     -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    position: fixed;
+}
+.boasorte{
+    border: 2px solid #9e292b;
+    display: flex;
+    font-size: 14px;
+    color: #000000;
+    background-color: #f9dfdf;
+    border-color: #9e292b;
+    z-index: 3000;
+    height: auto;
+    text-align: center;
+    border-radius: 6px;
+   
+}
+.div1{
+  border-bottom: inset;
+  padding: 20px 20px 20px 20px;
+}
+.div2{
+    position:fixed;
+    margin: -2% 0% 0% 30%;
+}
+.div3{
+    margin: 20px 20px 20px 20px;
+}
+#tema{
+    color:#9e292b;
+}
+.divtema{
+    padding: 20px 20px 20px 20px;
+}
+.texto{
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '{COLOCAR ID FACEBOOK}');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id={COLOCAR ID FACEBOOK}&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script language="javascript">
+var tempo = new Number();
+  // Tempo em segundos
+  //tempo = 7200;  
+tempo = 7200;  
+  function startCountdown(){	
+    // Se o tempo não for zerado
+    if((tempo - 1) >= -1){
+
+      // Pega a parte inteira dos minutos
+      var min = parseInt(tempo/60);
+	  // horas, pega a parte inteira dos minutos
+	  var hor = parseInt(min/60);	
+	  //atualiza a variável minutos obtendo o tempo restante dos minutos
+	      min = min % 60;
+      // Calcula os segundos restantes
+      var seg = tempo%60;
+
+      // Formata o número menor que dez, ex: 08, 07, ...
+      if(min < 10){
+        min = "0"+min;
+        min = min.substr(0, 2);
+      }
+      if(seg <=9){
+        seg = "0"+seg;
+      }
+	  if(hor <=9){
+		hor = "0"+hor;
+	  }
+		
+      // Cria a variável para formatar no estilo hora/cronômetro
+      horaImprimivel = hor+ ':' + min + ':' + seg;
+      //JQuery pra setar o valor
+      $("#contador").html(horaImprimivel);
+
+      // Define que a função será executada novamente em 1000ms = 1 segundo
+      setTimeout('startCountdown()',1000);
+
+      // diminui o tempo
+      tempo--;
+		
+      // Quando o contador chegar a zero faz esta ação
+    } else {
+		window.open('{COLOCAR URL DESTINO TEMPO FINALIZADO}', '_self', '');
+	}	 
+	 
+  }	
+		
+	startCountdown(); 	
+	
+</script>
+
+
+
+
+<script type="text/javascript"> $(document).on("input keyup", "#rd-text_area_field-kb7gxssy", function () {
+    var limite = 1500;
+    var caracteresDigitados = $(this).val().length;
+    var caracteresRestantes = caracteresDigitados; - limite;
+
+    $(".caracteres").text(caracteresRestantes);
+});
+$(function () {
+    $("#rd-text_area_field-kb7gxssy").keydown(function (event) {
+        if($(this).val().length <= 999){
+            $('#rd-button-joq3m2m7').attr('disabled', true)
+        } else{
+           $('#rd-button-joq3m2m7').attr('disabled', false)
+
+
+
+        }
+        
+        if ($(this).val().length == 1500) { 
+            return false;
+        } else {
+            return true;
+        }
+
+    });
+});
+$(document).ready(function() {
+
+    $("#rd-text_area_field-kb7gxssy").bind('cut copy paste', function(e) {
+        e.preventDefault();
+    });
+
+});
+var dragMe = document.getElementById("contador1"),
+  /* o x inicial do drag*/
+  dragOfX = 30;
+  /* o y inicial do drag */
+  dragOfY = 30;
+
+/* ao segurar o elemento */
+function dragStart(e) {
+    /* define o x inicial do drag */
+    dragOfX = e.pageX - dragMe.offsetLeft;
+    /* define o y inicial do drag */
+    dragOfY = e.pageY - dragMe.offsetTop;
+    
+    /* adiciona os eventos */
+    addEventListener("mousemove", dragMove);
+    addEventListener("mouseup", dragEnd);
+}
+    
+/* ao ser arrastado */
+function dragMove(e) {
+    /* atualiza a posição do elemento */
+    dragMe.style.left = (e.pageX - dragOfX) + 'px';
+    dragMe.style.top = (e.pageY - dragOfY) + 'px';
+}
+    
+/* ao terminar o drag */
+function dragEnd() {
+    /* remove os eventos */
+    removeEventListener("mousemove", dragMove);
+    removeEventListener("mouseup", dragEnd);
+}
+    
+/* adiciona o evento que começa o drag */
+dragMe.addEventListener("mousedown", dragStart);
+</script>
